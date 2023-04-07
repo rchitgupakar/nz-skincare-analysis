@@ -4,7 +4,7 @@
 [![license](https://img.shields.io/badge/license-apache%202.0-green.svg?logo=cachet&style=flat&logoColor=green)](https://choosealicense.com/licenses/)
 
 
-Analysis of Skin Cancer datasets from Dr Sharad Paul
+Analysis of New Zealand Skin Cancer datasets from Dr Sharad Paul. These datasets contain clinical indications, potential cancer type(s), demographic attributes like Age, Gender, and socioeconomic indicators for the patients.
 
 </br>
 
