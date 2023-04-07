@@ -1,0 +1,7 @@
+{
+  "url": "jdbc:postgresql://192.168.10.111/modakdata",
+  "driver": "org.postgresql.Driver",
+  "username": "aarti",
+  "password": "Modak0910@m",
+  "table" : "tmp.skincancer_transformed"
+}
