@@ -2,9 +2,9 @@
 
 [![python](https://img.shields.io/badge/python-3.10-blue.svg?style=flat&logo=python&logoColor=blue)](https://pypi.org/project/cookiecutter/)
 [![license](https://img.shields.io/badge/license-apache%202.0-green.svg?logo=cachet&style=flat&logoColor=green)](https://choosealicense.com/licenses/)
-[![My Site](https://img.shields.io/badge/about%20me-carlosgrande.me-red?style=flat&logo=aboutdotme&logoColor=red)](https://carlosgrande.me/)
 
-Analysis of Skin Cancer datasets from Dr Shareadxx[3~
+
+Analysis of Skin Cancer datasets from Dr Sharad Paul
 
 </br>
 
